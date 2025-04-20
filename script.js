@@ -1,5 +1,5 @@
 const API_KEY =
-  "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";
+  "";
 
 document.getElementById("travelForm").addEventListener("submit", async (e) => {
   e.preventDefault();
